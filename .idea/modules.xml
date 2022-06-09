@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/kattis_stress/kattis_stress.iml" filepath="$PROJECT_DIR$/kattis_stress/kattis_stress.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/testing_may_2022.iml" filepath="$PROJECT_DIR$/.idea/testing_may_2022.iml" />
     </modules>
   </component>
