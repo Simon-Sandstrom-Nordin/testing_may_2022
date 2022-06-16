@@ -12,7 +12,7 @@ public class Kommentarer {
         text = strip_percentages(text);
 
         // strip slashes
-        //for (int j = 0; j < text.length() - 1; j++) {
+        // for (int j = 0; j < text.length() - 1; j++) {
         //        if ((text.charAt(j) == '/') && (text.charAt(j + 1) == '*')) {
         //            text = strip_slashes(text);
         //        }
