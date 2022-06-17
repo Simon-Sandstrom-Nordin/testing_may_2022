@@ -1,0 +1,3 @@
+function hyep = hyper(v, s, n, k)
+    hyp = nchoosek(v, k).*nchoosek(s, n-k)./nchoosek(v+s, n)
+end
