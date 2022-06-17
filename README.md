@@ -7,3 +7,5 @@ unknown:          Hello World program in Python. <3 :D
 2022_05_07.m:     Homotopic deformation
 
 2022_06_02.java:  RSA cryptography
+
+2022_06_12        Probability blehs, recall python matlab java go functions and such. Elementary combinatorics and shit.
