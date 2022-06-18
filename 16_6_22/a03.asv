@@ -1,0 +1,15 @@
+% Multivariate stochastic variables
+close; clear; clc;
+
+A = [.11 .09 .07 .01;
+    .07 .12 .12 .02;
+    .02 .05 .17 .05;
+    .00 .02 .04 .02;
+    .00 .00 .01 .01];
+
+sum(sum(A));
+
+xexp = @(x) exp(-x);
+
+
+
