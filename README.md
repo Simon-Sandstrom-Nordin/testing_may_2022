@@ -11,3 +11,5 @@ unknown:          Hello World program in Python. <3 :D
 2022_06_12        Probability blehs, recall python matlab java go functions and such. Elementary combinatorics and shit.
 
 2022_06_17        Binomial distribution, java's being rude and I'm too lazy with go to go with go
+
+2022_06_18        Multivariate stochastic variables, Moron class
